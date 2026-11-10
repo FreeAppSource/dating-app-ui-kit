@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Dating App UI Kit",
+    "slug": "dating-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FD3A73"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "datingapp"
+  }
+}
